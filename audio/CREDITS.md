@@ -5,7 +5,8 @@
 - **Calm Loop**, de **wipics**.
 - Fonte: https://opengameart.org/content/calm-loop
 - Arquivo original: https://opengameart.org/sites/default/files/Relaxing_0.mp3
-- Arquivo local: `calm-loop.mp3`, sem alteração.
+- Cópia local do original: `calm-loop.mp3`.
+- Arquivo usado no jogo: `calm-loop-seamless.wav`, editado para repetir a cada 19,2 segundos, com a pausa cortada e uma transição curta nas pontas.
 - Licença declarada pelo autor: **CC0 1.0 — domínio público**.
 - Licença: https://creativecommons.org/publicdomain/zero/1.0/
 - Obtido em 8 de novembro de 2026.
